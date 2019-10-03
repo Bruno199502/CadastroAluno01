@@ -1,2 +1,4 @@
 RA:
 Nome:
+Telefone;
+e-mail:
