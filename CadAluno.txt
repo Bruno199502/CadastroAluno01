@@ -1,4 +1,4 @@
-RA:
-Nome:
-Telefone;
-e-mail:
+RA: 316102686 
+Nome: Joao  
+Telefone: 11 94631220
+e-mail: sergio.sposito@hotmail.com
