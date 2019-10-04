@@ -1,4 +1,4 @@
-RA:
-Nome:
-Telefone;
-e-mail:
+RA: 31610225  
+Nome: Joao Paulo
+Telefone: 11 945554984
+e-mail: sergio.spotio@hotmai.com
